@@ -1,0 +1,2 @@
+# HiplexGC
+Hiplex GenotypeCaller
